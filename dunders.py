@@ -42,6 +42,8 @@ __iter__ for iteration over objects
 __contains__ for in 
 
 __call__ for calling objects as functions 
+
+__repr__ for string representation of the instance
 """
 
 class SpecialString:
